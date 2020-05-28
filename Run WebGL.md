@@ -1,6 +1,6 @@
 #  How to run WebGL build locally 
 
-## Unity WebGL build doesn't work locally in Chrome anymore so we will use Firefox to run Unity WebGL game build locally
+## Unity WebGL build doesn't work locally in Chrome anymore so we will use Firefox to run Unity WebGL game build locally.
 
 ### We will enable the WebGL option on the browser
 1. Install the Firefox browser on your PC/Laptop.
